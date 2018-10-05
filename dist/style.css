@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+#map {
+  height: 100vh;
+  width: 100vw;
+}
+
+.leaflet-container {
+  font-family: "Open Sans", "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+
+.leaflet-popup-content-wrapper {
+  border-radius: 0px;
+}
+
+.leaflet-popup-content {
+  margin: 5px;
+}
